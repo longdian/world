@@ -32,7 +32,8 @@ function genSidebarConfig (title) {
           'asp',
           'linux',
           'es6',
-          'https'
+          'https',
+          'webpack'
         ]
       }
     ]
